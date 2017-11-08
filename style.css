@@ -1,0 +1,79 @@
+h1, h2, h3 {
+  font-family: 'Anton';
+  font-weight: 700;
+  letter-spacing:  6px;
+}
+
+h1 {
+  font-weight: 900;
+  color: #DD5555;
+  font-size: 60px;
+  letter-spacing: 3px;
+}
+
+body {
+  font-family: 'Saira Semi Condensed', sans-serif;
+  font-weight: : 300;
+  color: rgb(10, 10, 10);
+  /*background-color: rgb(240,240,240);*/
+  background-image: url("../profile/images/road.jpeg");
+  background-position: bottom;
+  background-position-x: -140px;
+  background-repeat: no-repeat;
+  background-size: 2800px;
+}
+a {
+  color: white;
+  padding-right: 10px;
+  text-decoration: none;
+}
+a:hover {
+  color: #FCCF4D;
+}
+
+#image_profil {
+  border-radius: 50%;
+}
+#text-footer {
+  color: red;
+}
+.margin_top {
+  margin-top: 30px;
+}
+.border_rounded {
+  border-radius: 4px;
+}
+.dark_background {
+  background-color: rgb(200,200,200);
+}
+.shadowed {
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
+}
+.border_upanddown {
+  border-top: 1px dotted rgb(200,200,200);
+  border-bottom: 1px dotted rgb(200,200,200);
+}
+.padding {
+  padding: 30px;
+}
+.margin {
+  margin: 40px;
+}
+.container {
+    width: 500px;
+    margin: 0 auto;
+  }
+.text-center {
+  text-align: center;
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.list-inline {
+  padding-left: 0px;
+}
+/*
+GOOGLE POLICES IMPORTED
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Saira Semi Condensed', sans-serif;*/
